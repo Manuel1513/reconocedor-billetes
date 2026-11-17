@@ -1,6 +1,6 @@
 # syntax=docker/dockerfile:1
 # Construir desde la RAIZ del repo:  docker build -f Ejecucion/Dockerfile -t reconocedor-billetes .
-FROM python:3.12-slim
+FROM python:3.15-slim
 
 ENV PYTHONDONTWRITEBYTECODE=1 \
     PYTHONUNBUFFERED=1 \
