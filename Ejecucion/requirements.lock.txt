@@ -15,7 +15,7 @@ jsonschema==4.26.0
 MarkupSafe==3.0.4
 narwhals==2.28.0
 numpy==2.5.4
-opencv-python-headless==5.0.0.93
+opencv-python-headless==5.1.0.95
 packaging==26.3
 pandas==3.1.1
 pillow==13.0.0
