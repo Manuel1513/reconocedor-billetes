@@ -3,5 +3,5 @@
 # Arbol completo (transitivas incluidas): requirements.lock.txt
 # Politica de licencias y auditoria: Ejecucion/docs/DEPENDENCIAS_Y_LICENCIAS.md
 opencv-python-headless==5.0.0.93
-numpy==2.5.4
+numpy==2.5.5
 streamlit==1.67.0
